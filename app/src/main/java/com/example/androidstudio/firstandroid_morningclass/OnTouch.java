@@ -12,8 +12,6 @@ public class OnTouch extends AppCompatActivity {
     TextView x,y,differ,Quad,motion,motion1;
     String coorx, coory, differ1, differ2, moti,moti1,Quad1;
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

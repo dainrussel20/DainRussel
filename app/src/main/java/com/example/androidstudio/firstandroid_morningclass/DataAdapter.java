@@ -45,7 +45,6 @@ public class DataAdapter extends SQLiteOpenHelper {
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
 
         db.execSQL("DROP TABLE IF EXISTS " + TABLE_USER);
-        //Recreate Table
         onCreate(db);
 
     }
@@ -61,17 +60,12 @@ public class DataAdapter extends SQLiteOpenHelper {
         values.put(UserName, username);
         values.put(FirstName, firstname);
         values.put(LastName, lastname);
-
-
-        //long id = db.insert(TABLE_USER, null, values);
-
         db.insert(TABLE_USER, null, values);
         db.close();
     }
 
 
     public boolean validateUserFromEmail(String emailAdd, String password) {
-        //HashMap<String, String> user = new HashMap<String, String>();
         String selectQueryFromEmail = "SELECT * FROM " + TABLE_USER + " WHERE " + EMAIL + " = '" + emailAdd +"' AND " + PASSWORD + " = '" + password + "'";
 
         SQLiteDatabase db = this.getReadableDatabase();

@@ -22,8 +22,6 @@ public class Register extends AppCompatActivity {
         setContentView(R.layout.register);
 
         final DataAdapter db = new DataAdapter(getApplicationContext());
-
-        //get reference views
         final EditText EmailSignUp = (EditText) findViewById(R.id.EmailReg);
         final EditText PwSignUp = (EditText) findViewById(R.id.PasswordReg);
         final EditText ConPwSignUp = (EditText) findViewById(R.id.PasswordConfirm);
