@@ -1,2 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7b53358c72fd58f94708bb9a1a80a82c75fd7d1f">
+        <dex dex="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_0bbec991e212179ea6f2ef1823588a00330a5750.jar" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c03ed9e3eba33c62b0f94d9a935724b57f3e3b29.jar" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a8f2f2f3f73ba0251bfcf6f40a5e3cdd5f7ae1f6.jar" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_991fdf8e64cfa3bf7752453165f17b2b1cdb4b62.jar" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5aabc67d122df26962879a29bfac854bbcbc9e22.jar" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_2db36c75c781d76b5123897e9c9df3f43a4891e5.jar" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_e71fe9e716bee0997aceda33ac7c036bc1fdc2d5.jar" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_b60dee28f4684ec637359f1d9627b32fbd9cb508.jar" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1d0e9fb89a06bb5ecd648b5890832bacc4a41780.jar" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_ecfa99415d5390926f9c2b412668cbfae61da3fb.jar" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_afad7da567a5b364035cff3fd1fa268184a46c18.jar" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_ce298cb7c2eecf41fefa2fd6e6aeeb8c36fbb6b8.jar" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_7094b9c1ae63c49762e3a9d873b89f39dc275899.jar" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b8935f02c82edc8d9370a0fb5baecb84ff560a3c">
+        <dex dex="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/pre-dexed/debug/instant-run_1ee1807fea3c9d959e315610aa36dbc8f37b86e5.jar" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0cf9e9745ce73de8bbe2a40c40dd9ec444ce8776.jar" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_0d9877085aab81be4ec8c4694e8a7aaee9c2b091.jar" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/androidstudio/Desktop/DAIN/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_74419287835926f1c2e0cac3856cd19a565f9544.jar" />
+    </item>
+
+</items>
